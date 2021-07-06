@@ -9,8 +9,6 @@ We estimated the nuclear mutation rate per generation in the malaria vectors Ano
  
 ### Male parent identification
 -	Relatedness (--relatedness2 from VCFtools, http://vcftools.sourceforge.net/):
-
-`vcftools --gzvcf vcffile.vcf.gz –-relatedness2`
   
 -	Mendelian heritage: 
 Perl script `mendelian_inheritance_analysis.pl`
